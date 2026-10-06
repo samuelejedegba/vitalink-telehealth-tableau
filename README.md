@@ -2,7 +2,7 @@
 
 A two-page interactive Tableau dashboard analysing 10,500 remote patient monitoring alerts over 30 days, built as my capstone for the 10Alytics HealthTech Analytics Programme. This is my first Tableau dashboard, having previously worked in Power BI.
 
-**Live dashboard:** [View on Tableau Public](ADD_YOUR_TABLEAU_PUBLIC_LINK)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/samuel2755/viz/Tableaucapstoneproject_17908182801300/Page1PatientAlerts?publish=yes)
 
 ![Page 1: Patient Alerts Profile](images/page1_patient_alerts.png)
 ![Page 2: Clinician Efficiency and Device Health](images/page2_clinicians_devices.png)
