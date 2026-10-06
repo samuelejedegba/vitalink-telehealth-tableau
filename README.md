@@ -4,8 +4,8 @@ A two-page interactive Tableau dashboard analysing 10,500 remote patient monitor
 
 **Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/samuel2755/viz/Tableaucapstoneproject_17908182801300/Page1PatientAlerts?publish=yes)
 
-![Page 1: Patient Alerts Profile](images/page1_patient_alerts.png)
-![Page 2: Clinician Efficiency and Device Health](images/page2_clinicians_devices.png)
+![Page 1: Patient Alerts Profile](page1_patient_alert.png)
+![Page 2: Clinician Efficiency and Device Health](page2_clinicians_devices.png)
 
 ## The business problem
 
